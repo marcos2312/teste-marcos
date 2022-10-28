@@ -1,3 +1,11 @@
 Primeiro treinamento prático de comandos git.
 
 - Segundo teste de atualização!
+
+- Terceiro teste de atualização! 
+  comando usados:
+  git status
+  git init
+  git add .
+  git commit -m "msg"
+  git push
